@@ -43,8 +43,7 @@ CareerLink is a modern, high-performance job board platform built with Laravel 1
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ghanashyambudhathoki01/Code-IT-Internship-Job-Portal.git
-   cd Code-IT-Internship-Job-Portal
+  https://github.com/ghanashyambudhathoki01/carrer_link.git
    ```
 
 2. **Install dependencies**
