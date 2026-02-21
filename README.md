@@ -2,8 +2,6 @@
 
 CareerLink is a modern, high-performance job board platform built with Laravel 11. It connects job seekers with top employers across Nepal, featuring a premium user experience, real-time notifications, and robust moderation tools.
 
-![CareerLink Preview](https://via.placeholder.com/1200x600/2563EB/FFFFFF?text=CareerLink+-+Premium+Job+Portal)
-
 ## ✨ Key Features
 
 ### 👥 For Job Seekers
@@ -69,13 +67,6 @@ CareerLink is a modern, high-performance job board platform built with Laravel 1
    npm run dev
    php artisan serve
    ```
-
-## 📸 Screenshots
-
-| Login Page | Register Page |
-| :---: | :---: |
-| ![Login](https://via.placeholder.com/400x300/1E293B/FFFFFF?text=Premium+Login) | ![Register](https://via.placeholder.com/400x300/1E293B/FFFFFF?text=Role+Selection) |
-
 ## 📄 License
 
 This project is open-sourced software licensed under the [MIT license](LICENSE).
