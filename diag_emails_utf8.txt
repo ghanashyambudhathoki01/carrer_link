@@ -1,0 +1,8 @@
+﻿--- EMPLOYER EMAILS FOR ACTIVE JOBS ---
+Job ID: 1 | Employer Email: employer@careerlink.com
+Job ID: 2 | Employer Email: employer@careerlink.com
+Job ID: 3 | Employer Email: employer@careerlink.com
+Job ID: 4 | Employer Email: employer2@careerlink.com
+Job ID: 5 | Employer Email: employer2@careerlink.com
+Job ID: 6 | Employer Email: employer@careerlink.com
+Total Active: 6

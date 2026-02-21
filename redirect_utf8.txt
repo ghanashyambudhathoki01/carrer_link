@@ -1,0 +1,8 @@
+﻿--- REDIRECT VERIFICATION ---
+Testing redirect for: superadmin@careerlink.com (super_admin)
+  - Redirect URL: http://localhost/super-admin
+Testing redirect for: admin@careerlink.com (admin)
+  - Redirect URL: http://localhost/admin
+Testing redirect for: employer@careerlink.com (employer)
+  - Redirect URL: http://localhost/employer/dashboard
+--- END ---

@@ -1,0 +1,24 @@
+﻿--- CATEGORY DIAGNOSTIC ---
+ID: 1 | Name: Information Technology | Active: YES | Icon: ≡ƒÆ╗
+ID: 2 | Name: Marketing & Sales | Active: YES | Icon: ≡ƒôú
+ID: 3 | Name: Design & Creative | Active: YES | Icon: ≡ƒÄ¿
+ID: 4 | Name: Finance & Accounting | Active: YES | Icon: ≡ƒÆ░
+ID: 5 | Name: Human Resources | Active: YES | Icon: ≡ƒæÑ
+ID: 6 | Name: Engineering | Active: YES | Icon: ΓÜÖ∩╕Å
+ID: 7 | Name: Education | Active: YES | Icon: ≡ƒôÜ
+ID: 8 | Name: Healthcare | Active: YES | Icon: ≡ƒÅÑ
+ID: 9 | Name: Customer Service | Active: YES | Icon: ≡ƒÄº
+ID: 10 | Name: Administration | Active: YES | Icon: ≡ƒôï
+ID: 11 | Name: Hospitality & Tourism | Active: YES | Icon: ≡ƒÅ¿
+ID: 12 | Name: Legal | Active: YES | Icon: ΓÜû∩╕Å
+ID: 13 | Name: Media & Journalism | Active: YES | Icon: ≡ƒô░
+ID: 14 | Name: Research & Development | Active: YES | Icon: ≡ƒö¼
+ID: 15 | Name: Other | Active: YES | Icon: ≡ƒôî
+
+--- JOB -> CATEGORY LINKS ---
+Job ID: 1 | Category ID: 1 | Category Name: Information Technology
+Job ID: 2 | Category ID: 1 | Category Name: Information Technology
+Job ID: 3 | Category ID: 1 | Category Name: Information Technology
+Job ID: 4 | Category ID: 2 | Category Name: Marketing & Sales
+Job ID: 5 | Category ID: 3 | Category Name: Design & Creative
+Job ID: 6 | Category ID: 1 | Category Name: Information Technology

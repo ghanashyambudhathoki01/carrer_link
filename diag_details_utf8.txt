@@ -1,0 +1,8 @@
+﻿--- ACTIVE JOBS DETAILS ---
+ID: 1 | Title: Senior Laravel Developer | Employer: TechCorp Nepal | Cat: Information Technology | Status: approved
+ID: 2 | Title: React.js Frontend Developer | Employer: TechCorp Nepal | Cat: Information Technology | Status: approved
+ID: 3 | Title: Flutter Mobile Developer Intern | Employer: TechCorp Nepal | Cat: Information Technology | Status: approved
+ID: 4 | Title: Digital Marketing Specialist | Employer: Digital Dreams | Cat: Marketing & Sales | Status: approved
+ID: 5 | Title: UI/UX Designer | Employer: Digital Dreams | Cat: Design & Creative | Status: approved
+ID: 6 | Title: DevOps Engineer | Employer: TechCorp Nepal | Cat: Information Technology | Status: approved
+Total Active: 6

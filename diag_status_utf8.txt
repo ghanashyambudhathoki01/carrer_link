@@ -1,0 +1,20 @@
+﻿--- NON-PENDING JOBS DIAGNOSTIC ---
+ID: 1 | Title: Senior Laravel Developer | Raw Status: 'approved'
+  - Type of Status: string
+  - Length of Status: 8
+ID: 2 | Title: React.js Frontend Developer | Raw Status: 'approved'
+  - Type of Status: string
+  - Length of Status: 8
+ID: 3 | Title: Flutter Mobile Developer Intern | Raw Status: 'approved'
+  - Type of Status: string
+  - Length of Status: 8
+ID: 4 | Title: Digital Marketing Specialist | Raw Status: 'approved'
+  - Type of Status: string
+  - Length of Status: 8
+ID: 5 | Title: UI/UX Designer | Raw Status: 'approved'
+  - Type of Status: string
+  - Length of Status: 8
+ID: 6 | Title: DevOps Engineer | Raw Status: 'approved'
+  - Type of Status: string
+  - Length of Status: 8
+Total non-pending: 6

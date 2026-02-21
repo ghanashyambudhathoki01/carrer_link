@@ -1,0 +1,28 @@
+﻿--- STATUS CASING DIAGNOSTIC ---
+ID: 1 | Title: Senior Laravel Developer | Raw Status: 'approved'
+  - Exact 'approved' (lowercase): YES
+  - Case-insensitive 'approved': YES
+ID: 2 | Title: React.js Frontend Developer | Raw Status: 'approved'
+  - Exact 'approved' (lowercase): YES
+  - Case-insensitive 'approved': YES
+ID: 3 | Title: Flutter Mobile Developer Intern | Raw Status: 'approved'
+  - Exact 'approved' (lowercase): YES
+  - Case-insensitive 'approved': YES
+ID: 4 | Title: Digital Marketing Specialist | Raw Status: 'approved'
+  - Exact 'approved' (lowercase): YES
+  - Case-insensitive 'approved': YES
+ID: 5 | Title: UI/UX Designer | Raw Status: 'approved'
+  - Exact 'approved' (lowercase): YES
+  - Case-insensitive 'approved': YES
+ID: 6 | Title: DevOps Engineer | Raw Status: 'approved'
+  - Exact 'approved' (lowercase): YES
+  - Case-insensitive 'approved': YES
+ID: 7 | Title: jr developer | Raw Status: 'pending'
+  - Exact 'approved' (lowercase): NO
+  - Case-insensitive 'approved': NO
+ID: 8 | Title: jr developer | Raw Status: 'pending'
+  - Exact 'approved' (lowercase): NO
+  - Case-insensitive 'approved': NO
+ID: 10 | Title: teacher | Raw Status: 'pending'
+  - Exact 'approved' (lowercase): NO
+  - Case-insensitive 'approved': NO

@@ -1,0 +1,65 @@
+﻿--- Job Visibility Diagnostic ---
+Current Time: 2026-02-20 12:59:09
+Timezone: UTC
+Total Jobs: 9
+ID: 1 | Title: Senior Laravel Developer
+  - Status: 'approved' (Match 'approved': YES)
+  - Deadline: 2026-03-22 00:00:00 (Is Future/Today: YES)
+  - Passes scopeActive: YES
+---------------------------------
+ID: 2 | Title: React.js Frontend Developer
+  - Status: 'approved' (Match 'approved': YES)
+  - Deadline: 2026-03-17 00:00:00 (Is Future/Today: YES)
+  - Passes scopeActive: YES
+---------------------------------
+ID: 3 | Title: Flutter Mobile Developer Intern
+  - Status: 'approved' (Match 'approved': YES)
+  - Deadline: 2026-03-07 00:00:00 (Is Future/Today: YES)
+  - Passes scopeActive: YES
+---------------------------------
+ID: 4 | Title: Digital Marketing Specialist
+  - Status: 'approved' (Match 'approved': YES)
+  - Deadline: 2026-03-12 00:00:00 (Is Future/Today: YES)
+  - Passes scopeActive: YES
+---------------------------------
+ID: 5 | Title: UI/UX Designer
+  - Status: 'approved' (Match 'approved': YES)
+  - Deadline: 2026-03-22 00:00:00 (Is Future/Today: YES)
+  - Passes scopeActive: YES
+---------------------------------
+ID: 6 | Title: DevOps Engineer
+  - Status: 'approved' (Match 'approved': YES)
+  - Deadline: 2026-04-06 00:00:00 (Is Future/Today: YES)
+  - Passes scopeActive: YES
+---------------------------------
+ID: 7 | Title: jr developer
+  - Status: 'pending' (Match 'approved': NO)
+  - Deadline: 2026-02-21 00:00:00 (Is Future/Today: YES)
+  - Passes scopeActive: NO
+---------------------------------
+ID: 8 | Title: jr developer
+  - Status: 'pending' (Match 'approved': NO)
+  - Deadline: 2026-02-21 00:00:00 (Is Future/Today: YES)
+  - Passes scopeActive: NO
+---------------------------------
+ID: 10 | Title: teacher
+  - Status: 'pending' (Match 'approved': NO)
+  - Deadline: NULL (Is Future/Today: YES)
+  - Passes scopeActive: NO
+---------------------------------
+Active Categories Count: 15
+  - ID: 1 | Name: Information Technology
+  - ID: 2 | Name: Marketing & Sales
+  - ID: 3 | Name: Design & Creative
+  - ID: 4 | Name: Finance & Accounting
+  - ID: 5 | Name: Human Resources
+  - ID: 6 | Name: Engineering
+  - ID: 7 | Name: Education
+  - ID: 8 | Name: Healthcare
+  - ID: 9 | Name: Customer Service
+  - ID: 10 | Name: Administration
+  - ID: 11 | Name: Hospitality & Tourism
+  - ID: 12 | Name: Legal
+  - ID: 13 | Name: Media & Journalism
+  - ID: 14 | Name: Research & Development
+  - ID: 15 | Name: Other
