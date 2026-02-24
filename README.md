@@ -72,4 +72,4 @@ CareerLink is a modern, high-performance job board platform built with Laravel 1
 This project is open-sourced software licensed under the [MIT license](LICENSE).
 
 ---
-Developed with ❤️ by [Ghanashyam Budhathoki](https://github.com/ghanashyambudhathoki01)
+Developed with ❤️ by [Ghanashyam Budhathoki](https://ghanashyambudhathoki.com.np/)
