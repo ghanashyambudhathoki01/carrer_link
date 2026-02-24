@@ -20,6 +20,28 @@ class SubscriptionController extends Controller
         return view('subscriptions.index', compact('plans', 'currentSub', 'latestAttempt'));
     }
 
+    // Handle subscription plan selection
+    public function select(Request $request, SubscriptionPlan $plan)
+    {
+        $user = $request->user();
+        // If free plan, activate immediately
+        if ($plan->isFree()) {
+            Subscription::create([
+                'user_id'        => $user->id,
+                'plan_id'        => $plan->id,
+                'starts_at'      => now(),
+                'expires_at'     => now()->addDays($plan->duration_days),
+                'status'         => 'active',
+                'payment_method' => 'free',
+                'is_verified'    => true,
+                'verified_at'    => now(),
+            ]);
+            return redirect()->route('dashboard')->with('success', 'Free plan activated!');
+        }
+        // For paid plans, redirect to checkout
+        return redirect()->route('subscriptions.checkout', $plan->id);
+    }
+
     public function checkout(int $planId)
     {
 

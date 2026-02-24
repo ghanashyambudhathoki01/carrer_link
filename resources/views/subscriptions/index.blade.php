@@ -74,8 +74,8 @@
 
     <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         @foreach($plans as $plan)
-            <div class="bg-white rounded-3xl border {{ $plan->slug === 'basic' ? 'border-blue-500 ring-4 ring-blue-50' : 'border-gray-200' }} p-8 shadow-sm flex flex-col relative overflow-hidden">
-                @if($plan->slug === 'basic')
+            <div class="bg-white rounded-3xl border {{ $plan->slug === 'pro' ? 'border-blue-500 ring-4 ring-blue-50' : 'border-gray-200' }} p-8 shadow-sm flex flex-col relative overflow-hidden">
+                @if($plan->slug === 'pro')
                     <div class="absolute top-0 right-0 bg-blue-600 text-white text-[10px] font-bold px-4 py-1.5 rounded-bl-2xl uppercase tracking-widest">Most Popular</div>
                 @endif
 
@@ -113,7 +113,7 @@
                         <button disabled class="w-full py-4 bg-gray-100 text-gray-400 font-bold rounded-2xl cursor-not-allowed">Current Plan</button>
                     @else
                         <a href="{{ route('subscriptions.checkout', $plan->id) }}" 
-                           class="w-full py-4 {{ $plan->slug === 'basic' ? 'bg-blue-600 text-white hover:bg-blue-700' : 'bg-gray-900 text-white hover:bg-gray-800' }} text-center font-bold rounded-2xl transition-all shadow-lg">
+                           class="w-full py-4 {{ $plan->slug === 'pro' ? 'bg-blue-600 text-white hover:bg-blue-700' : 'bg-gray-900 text-white hover:bg-gray-800' }} text-center font-bold rounded-2xl transition-all shadow-lg">
                             Get Started
                         </a>
                     @endif

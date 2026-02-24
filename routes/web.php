@@ -6,6 +6,8 @@ use App\Http\Controllers\JobListingController;
 use App\Http\Controllers\ApplicationController;
 use App\Http\Controllers\SavedJobController;
 use App\Http\Controllers\SubscriptionController;
+    // Add subscription selection route
+    Route::post('/subscriptions/select/{plan}', [SubscriptionController::class, 'select'])->name('subscription.select');
 use App\Http\Controllers\EmployerController;
 use App\Http\Controllers\SeekerProfileController;
 use App\Http\Controllers\EventController;
